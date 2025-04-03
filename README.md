@@ -52,6 +52,7 @@ Processing Speed <1 minute WhisperX + GPT 10-minute videos
 Language Support 30+ Whisper API Multilingual Dataset
 
 Example 1: Python Programming Tutorial
+<br>
 Input (Transcript Excerpt):
 "Welcome to Python programming! In this session, we’ll cover the basics of variables, data types, loops, and functions..."
 
@@ -71,6 +72,7 @@ Output (Markdown):
    - Reusable blocks of code defined using `def`.
 
 Example 2: Machine Learning Lecture
+<br>
 Input (Transcript Excerpt):
 "In today’s lecture, we’ll discuss supervised learning algorithms like linear regression and classification techniques..."
 
@@ -107,7 +109,7 @@ Output (Markdown):
 🔧 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/video-recap-ai.git
+   git clone https://github.com/imayushthakur/recapify.git
    cd video-recap-ai
 
 2. Install dependencies:
