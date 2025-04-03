@@ -1,6 +1,6 @@
 <h1>🎥 AI-Powered Video Recapitulation System</h1>
 Effortlessly transform long video tutorials into concise, structured summaries with our advanced AI-powered system. Designed for educators, businesses, and content creators, this tool leverages state-of-the-art machine learning and natural language processing techniques to save time and enhance productivity.
-
+<br><br>
 🚀 Features
 Few-Shot Learning: Fine-tuned GPT-3 DaVinci model for high-quality summaries.
 
@@ -11,7 +11,7 @@ Customizable Outputs: Generate summaries in Markdown, HTML, or JSON formats.
 Real-Time Summarization: Process videos instantly with minimal latency.
 
 Multi-Language Support: Summarize videos in over 30 languages.
-
+<br><br>
 📚 Applications
 
 1. Education and E-Learning
@@ -33,7 +33,7 @@ Create social media snippets from video content.
    Condense technical video content for faster comprehension.
 
 Summarize research presentations into key findings.
-
+<br><br>
 🛠️ How It Works
 Video Input: Upload a video file or provide a YouTube URL.
 
@@ -44,13 +44,13 @@ Text Preprocessing: Clean and segment transcripts into logical sections.
 Summarization: Use GPT models to generate concise summaries based on the transcript.
 
 Output Formatting: Export summaries in your preferred format (Markdown, JSON, etc.).
-
+<br><br>
 📊 Performance Metrics
 Metric Value Model Used Dataset Tested On
 ROUGE-L Score 92% GPT-3 DaVinci YouTube Educational Set
 Processing Speed <1 minute WhisperX + GPT 10-minute videos
 Language Support 30+ Whisper API Multilingual Dataset
-
+<br><br>
 Example 1: Python Programming Tutorial
 <br>
 Input (Transcript Excerpt):
@@ -105,7 +105,7 @@ Output (Markdown):
    - Additional team members to be onboarded.
 3. Deadlines:
    - Final deliverables due by June 30th.
-
+<br><br>
 🔧 Installation
 
 1. Clone the repository:
@@ -122,7 +122,7 @@ Output (Markdown):
 
 5. Run the application:
    python app/main.py --url "https://youtube.com/some-video-url"
-
+<br><br>
 🌟 Why Choose This System?
 Time-Saving: Reduce hours of video review to minutes of reading.
 
@@ -131,7 +131,7 @@ Customizable Outputs: Tailor summaries to your needs—detailed or concise.
 Scalable Solution: Process multiple videos simultaneously with batch mode.
 
 "This system has transformed how we consume educational content—students now spend less time watching videos and more time learning!" – A Satisfied Client
-
+<br><br>
 💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
 
 📬 Contact Me 📧 Email: thehaurusai@gmail.com
