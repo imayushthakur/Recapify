@@ -115,15 +115,19 @@ Output (Markdown):
 5. Run the application:
    python app/main.py --url "https://youtube.com/some-video-url"
 <br><br>
+
+
 🌟 Why Choose This System?
+<br>
 Time-Saving: Reduce hours of video review to minutes of reading.
-
+<br>
 Customizable Outputs: Tailor summaries to your needs—detailed or concise.
-
+<br>
 Scalable Solution: Process multiple videos simultaneously with batch mode.
-
+<br>
 "This system has transformed how we consume educational content—students now spend less time watching videos and more time learning!" – A Satisfied Client
 <br><br>
+
 💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
 
 📬 Contact Me 📧 Email: thehaurusai@gmail.com
