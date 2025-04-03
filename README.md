@@ -96,11 +96,7 @@ Output (Markdown):
    - Additional team members to be onboarded.
 3. Deadlines:
    - Final deliverables due by June 30th.
-<<<<<<< HEAD
-     <br><br>
-=======
 <br><br>
->>>>>>> 3bf1d3accd541022dc569902949ac99cf042fb43
 
 🔧 Installation
 
@@ -118,15 +114,9 @@ Output (Markdown):
 
 5. Run the application:
    python app/main.py --url "https://youtube.com/some-video-url"
-<<<<<<< HEAD
-   <br><br>
-   🌟 Why Choose This System?
-   Time-Saving: Reduce hours of video review to minutes of reading.
-=======
 <br><br>
 🌟 Why Choose This System?
 Time-Saving: Reduce hours of video review to minutes of reading.
->>>>>>> 3bf1d3accd541022dc569902949ac99cf042fb43
 
 Customizable Outputs: Tailor summaries to your needs—detailed or concise.
 
