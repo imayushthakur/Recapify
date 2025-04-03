@@ -26,24 +26,18 @@ Multi-Language Support: Summarize videos in over 30 languages.
 4. Research and Academia
    Condense technical video content for faster comprehension.
    Summarize research presentations into key findings.
+
 <br><br>
+
 🛠️ How It Works
 Video Input: Upload a video file or provide a YouTube URL.
-
 Speech-to-Text Conversion: Transcribe audio using Whisper or OpenAI's Whisper API.
-
 Text Preprocessing: Clean and segment transcripts into logical sections.
-
 Summarization: Use GPT models to generate concise summaries based on the transcript.
-
 Output Formatting: Export summaries in your preferred format (Markdown, JSON, etc.).
+
 <br><br>
-📊 Performance Metrics
-Metric Value Model Used Dataset Tested On
-ROUGE-L Score 92% GPT-3 DaVinci YouTube Educational Set
-Processing Speed <1 minute WhisperX + GPT 10-minute videos
-Language Support 30+ Whisper API Multilingual Dataset
-<br><br>
+
 Example 1: Python Programming Tutorial
 <br>
 Input (Transcript Excerpt):
