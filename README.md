@@ -109,16 +109,18 @@ Output (Markdown):
 🔧 Installation
 
 1. Clone the repository:
+   <br>
    git clone https://github.com/imayushthakur/recapify.git
+   <br>
    cd video-recap-ai
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt
 
-3. Set up environment variables in .env:
+4. Set up environment variables in .env:
    OPENAI_API_KEY=your_openai_api_key
 
-4. Run the application:
+5. Run the application:
    python app/main.py --url "https://youtube.com/some-video-url"
 
 🌟 Why Choose This System?
