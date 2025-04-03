@@ -28,12 +28,16 @@ Multi-Language Support: Summarize videos in over 30 languages.
    Summarize research presentations into key findings.
 
 <br><br>
-
 🛠️ How It Works
+<br>
 Video Input: Upload a video file or provide a YouTube URL.
+<br>
 Speech-to-Text Conversion: Transcribe audio using Whisper or OpenAI's Whisper API.
+<br>
 Text Preprocessing: Clean and segment transcripts into logical sections.
+<br>
 Summarization: Use GPT models to generate concise summaries based on the transcript.
+<br>
 Output Formatting: Export summaries in your preferred format (Markdown, JSON, etc.).
 
 <br><br>
@@ -93,6 +97,7 @@ Output (Markdown):
 3. Deadlines:
    - Final deliverables due by June 30th.
 <br><br>
+
 🔧 Installation
 
 1. Clone the repository:
