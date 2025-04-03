@@ -13,23 +13,19 @@ Multi-Language Support: Summarize videos in over 30 languages.
 
 1. Education and E-Learning
    Summarize lectures into digestible notes for students.
-
-Create chapter-wise summaries of online courses.
+   Create chapter-wise summaries of online courses.
 
 2. Business and Corporate Use
    Generate meeting recaps with key action items.
-
-Summarize training sessions for employee onboarding.
+   Summarize training sessions for employee onboarding.
 
 3. Media and Content Creation
    Extract highlights from long interviews or webinars.
-
-Create social media snippets from video content.
+   Create social media snippets from video content.
 
 4. Research and Academia
    Condense technical video content for faster comprehension.
-
-Summarize research presentations into key findings.
+   Summarize research presentations into key findings.
 <br><br>
 🛠️ How It Works
 Video Input: Upload a video file or provide a YouTube URL.
