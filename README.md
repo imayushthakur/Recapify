@@ -124,7 +124,7 @@ Time-Saving: Reduce hours of video review to minutes of reading.
 Customizable Outputs: Tailor summaries to your needs—detailed or concise.
 <br>
 Scalable Solution: Process multiple videos simultaneously with batch mode.
-<br>
+<br><br>
 "This system has transformed how we consume educational content—students now spend less time watching videos and more time learning!" – A Satisfied Client
 <br><br>
 
