@@ -4,13 +4,9 @@ Effortlessly transform long video tutorials into concise, structured summaries w
 🚀 Features
 <br>
 Few-Shot Learning: Fine-tuned GPT-3 DaVinci model for high-quality summaries.
-
 Multi-Modal Analysis: Combines speech recognition, text analysis, and topic modeling.
-
 Customizable Outputs: Generate summaries in Markdown, HTML, or JSON formats.
-
 Real-Time Summarization: Process videos instantly with minimal latency.
-
 Multi-Language Support: Summarize videos in over 30 languages.
 <br><br>
 📚 Applications
