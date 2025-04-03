@@ -2,6 +2,7 @@
 Effortlessly transform long video tutorials into concise, structured summaries with our advanced AI-powered system. Designed for educators, businesses, and content creators, this tool leverages state-of-the-art machine learning and natural language processing techniques to save time and enhance productivity.
 <br><br>
 🚀 Features
+<br>
 Few-Shot Learning: Fine-tuned GPT-3 DaVinci model for high-quality summaries.
 
 Multi-Modal Analysis: Combines speech recognition, text analysis, and topic modeling.
