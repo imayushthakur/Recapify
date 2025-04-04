@@ -1,4 +1,3 @@
-# app/core/data_collection/transcriber.py
 import os
 import whisper
 from openai import OpenAI
