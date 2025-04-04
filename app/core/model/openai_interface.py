@@ -1,4 +1,3 @@
-# app/core/model/openai_interface.py
 from openai import OpenAI
 import backoff
 import time
