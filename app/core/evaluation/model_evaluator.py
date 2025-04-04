@@ -1,4 +1,3 @@
-# app/core/evaluation/model_evaluator.py
 import numpy as np
 from rouge_score import rouge_scorer
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
