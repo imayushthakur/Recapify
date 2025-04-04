@@ -1,4 +1,3 @@
-# app/core/few_shot/few_shot_learner.py
 class FewShotLearner:
     def __init__(self, examples=None):
         """Initialize the few-shot learner with example pairs."""
