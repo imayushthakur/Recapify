@@ -1,4 +1,3 @@
-# app/core/few_shot/prompt_templates.py
 class PromptTemplates:
     @staticmethod
     def video_recap_template():
