@@ -1,4 +1,3 @@
-# app/core/data_collection/video_collector.py
 import os
 import requests
 import youtube_dl
