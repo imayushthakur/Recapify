@@ -102,7 +102,7 @@ Output (Markdown):
 
 1. Clone the repository:
    <br>
-   git clone https://github.com/imayushthakur/recapify.git
+   git clone https://github.com/imayushthakur/Recapify.git
    <br>
    cd video-recap-ai
 
